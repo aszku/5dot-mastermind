@@ -4,7 +4,7 @@
 # Copyright:   (c) annaszaniawska 2022
 #-------------------------------------------------------------------------------
 
-#importy
+#imports
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
